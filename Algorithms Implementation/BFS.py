@@ -25,5 +25,5 @@ def BFS(node):
                 queue.append(neighbor)
 
     print(order)
-
+    
 BFS('D')
