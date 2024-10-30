@@ -24,5 +24,5 @@ def DFS(start):
                     stack.append(neighbor)
 
     print(vertex)
-                    
+    
 DFS('D')
